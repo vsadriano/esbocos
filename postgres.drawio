@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T14:25:14.309Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="17F5wD8ISGvbfHzvqxnU" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-01T14:30:49.614Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="KgHAd7kWRgsVgjCwEJrS" version="14.4.9" type="github">
   <diagram id="Pe28DnI3vjl9g1rljiI1" name="Page-1">
     <mxGraphModel dx="670" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,6 +42,18 @@
         </mxCell>
         <mxCell id="R1xA2vM4cjZbvVM44vxN-1" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3334B9;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_postgresql_instance;" vertex="1" parent="1">
           <mxGeometry x="390" y="255" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="R1xA2vM4cjZbvVM44vxN-7" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;Fuctions&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="220" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R1xA2vM4cjZbvVM44vxN-8" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;pg_cron&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="255" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R1xA2vM4cjZbvVM44vxN-9" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;app standalone&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="292" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R1xA2vM4cjZbvVM44vxN-10" value="&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;Control-M&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="328.5" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
